@@ -1,7 +1,9 @@
 //https://codezen.codingninjas.in/practice/465/358/all-consecutive-elements
 //throws runtime for one test case comment if you are able to
+//java.util.arrays to import the arrays 
 
 import java.util.Arrays;
+import java.util.*;
 
 public class Solution {
 
